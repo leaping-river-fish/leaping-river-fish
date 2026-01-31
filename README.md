@@ -13,6 +13,6 @@ If you want to find me you can @:
 - **Website:** [asklumie.me](https://asklumie.me)
 - **Occasionally:** volleyball / badminton drop-ins
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leaping-river-fish&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leaping-river-fish&layout=compact&theme=dark&langs_count=10))
 
 
