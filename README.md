@@ -1,3 +1,5 @@
+![Banner](./GitBanner.png)
+
 ## Hi I'm Nick, a SYDE student @ UW and a developer interested in game dev. 🎮
 
 I'm currently learning Unity and C#. I just finished my first game FlappyLumie. 🐉
