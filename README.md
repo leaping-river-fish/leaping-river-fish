@@ -11,7 +11,8 @@ linkedin: https://www.linkedin.com/in/zheng-nick1/
 website contact page: asklumie.me
 occasionally: volleyball/badminton drop-ins
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leaping_river_fish&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leaping-river-fish&show_icons=true&theme=dark&cache_seconds=1800)
+
 
 
 <!--
