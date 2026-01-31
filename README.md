@@ -6,12 +6,12 @@ I'm currently working on a 2D platformer for my final project in Engineering pro
 
 If you want to find me you can @:
 
-instagram: @leaping_river_fish
-linkedin: https://www.linkedin.com/in/zheng-nick1/
-website contact page: asklumie.me
-occasionally: volleyball/badminton drop-ins
+- **Instagram:** [@leaping_river_fish](https://instagram.com/leaping_river_fish)
+- **LinkedIn:** [zheng-nick1](https://www.linkedin.com/in/zheng-nick1/)
+- **Website:** [asklumie.me](https://asklumie.me)
+- **Occasionally:** volleyball / badminton drop-ins
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leaping-river-fish&show_icons=true&theme=dark&cache_seconds=1800)
+
 
 
 
