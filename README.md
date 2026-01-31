@@ -13,6 +13,15 @@ If you want to find me you can @:
 - **Website:** [asklumie.me](https://asklumie.me)
 - **Occasionally:** volleyball / badminton drop-ins
 
+## 🛠 Languages & Projects
+
+**TypeScript/JavaScript** - Website-V2, URPaint, Personal-Website
+**Python** - URPaint
+**Go** - URPaint
+**HTML/CSS** - Website-V2, URPaint, Personal-Website
+**C++** - Football-Game-Simulator, Library-Storage-System
+**C#** - FlappyLumie
+
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leaping-river-fish&layout=compact&theme=dark&langs_count=10))
 
 
