@@ -19,7 +19,7 @@ If you want to find me you can @:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) - URPaint
 - ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) - URPaint
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)/![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) - Website-V2, URPaint, Personal-Website
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) - Football-Game-Simulator, Library-Storage-System
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) - SYDEQuest, Football-Game-Simulator, Library-Storage-System
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c%23&logoColor=white) - FlappyLumie
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leaping-river-fish&layout=compact&theme=dark&langs_count=10))
