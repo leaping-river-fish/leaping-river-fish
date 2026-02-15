@@ -22,6 +22,7 @@ If you want to find me you can @:
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) - SYDEQuest, Football-Game-Simulator, Library-Storage-System
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c%23&logoColor=white) - FlappyLumie
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leaping-river-fish&layout=compact&theme=dark&langs_count=10&exclude_langs=ASP.NET,HTML,CSS,CMake)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leaping-river-fish&layout=compact&theme=dark&langs_count=10&exclude_langs=ASP.Net,HTML,CSS,CMake)
+
 
 
