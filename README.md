@@ -2,9 +2,9 @@
 
 ## Hi I'm Nick, a SYDE student @ UW and a developer interested in game dev. 🎮
 
-**Currently Learning** Unity and C#. I just finished my first game FlappyLumie. 🐉
+**Currently Learning** Unity and C#.
 
-**Currently Working On** a 2D platformer for my final project in Engineering prototyping. 
+**Currently Working On** Off-Angle a 3D Movement-focused FPS game. 
 
 If you want to find me you can @:
 
